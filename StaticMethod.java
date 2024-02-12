@@ -39,6 +39,7 @@ public class StaticMethod {
     //Instance Method
     void greet() {
         System.out.println("Hello java");
+        System.out.println("Hello Test");
     }
 
     //Static Method
